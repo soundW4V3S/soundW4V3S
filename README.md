@@ -1,18 +1,26 @@
-<!-- ### Hi there 👋
+<h1 align="center">Hi there 👋, I'm soundW4V3S</h1>
+<h3 align="center">I'm an aspiring Computer Science student, studying Python and Java development</h3>
 
 
-**soundW4V3S/soundW4V3S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="No" height="250" width="250"> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soundw4v3s&label=Profile%20views&color=0e75b6&style=flat" alt="soundw4v3s" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
+- 🔭 I’m currently working on **a visual Site Mapper**
 
- 
+- 🌱 I’m currently learning **(primarily) Java development**
+
+- 🤝 I’m looking for help with **understanding subtle nuances of programming**
+
+- 💬 Ask me about **general Python development, hardware troubleshooting, and anything code related!**
+
+<!--  <h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>  -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soundw4v3s&show_icons=true&locale=en&layout=compact" alt="soundw4v3s" /></p>
+
+<!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soundw4v3s&show_icons=true&locale=en" alt="soundw4v3s" /></p>  -->
