@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundw4v3s&label=Profile%20views&color=0e75b6&style=flat" alt="soundw4v3s" /> </p>
 
-- 🔭 I’m currently working on **a visual Site Mapper**
+- 🔭 I’m currently working on **a visual Site Mapper, and GUI creation using Java**
 
-- 🌱 I’m currently learning **(primarily) Java development**
+- 🌱 I’m currently learning **(primarily) Java development, and some more Python, too**
 
-- 🤝 I’m looking for help with **understanding subtle nuances of programming**
+- 🤝 I’m looking for help with **understanding subtle nuances of different programming languages**
 
 - 💬 Ask me about **general Python development, hardware troubleshooting, and anything code related!**
 
