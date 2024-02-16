@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="No" height="250" width="250"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soundw4v3s&label=Profile%20views&color=0e75b6&style=flat" alt="soundw4v3s" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soundw4v3s&label=Profile%20views&color=0e75b6&style=flat" alt="soundw4v3s" /> </p>
 
 - 🔭 I’m currently working on **a visual Site Mapper, and GUI creation using Java**
 
