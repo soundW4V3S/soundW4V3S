@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a visual Site Mapper, and GUI creation using Java**
 
-- 🌱 I’m currently learning **(primarily) Java development, and some more Python, too**
+- 🌱 I’m currently learning **(primarily) C++ development, and some Python, too**
 
 - 🤝 I’m looking for help with **understanding subtle nuances of different programming languages**
 
