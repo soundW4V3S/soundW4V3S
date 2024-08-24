@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm soundW4V3S</h1>
-<h3 align="center">I'm an aspiring Computer Science student, studying C++, Python and Reverse Engineering.</h3>
+<h3 align="center">I'm an aspiring Computer Science student, studying C++, Python, and Reverse Engineering.</h3>
 
 
 <p align="center"> <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="No" height="250" width="250"> </p>
