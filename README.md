@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **(primarily) C++ development, and some Python, too**
 
-- 🤝 I’m looking for help with **understanding anything, big or small, about how computers move, use, and operate with data**
+- 🤝 I’m looking for help with **understanding anything, big or small, about how computers move, use, and operate on data**
 
 - 💬 Ask me about **general Python development, hardware troubleshooting, and anything code related!**
 
