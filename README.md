@@ -2,7 +2,7 @@
 <h3 align="center">I'm an aspiring Computer Science student, studying C++, Python, and Reverse Engineering.</h3>
 
 
-<p align="center"> <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="No" height="250" width="250"> </p>
+<p align="center"> <img src="https://64.media.tumblr.com/7608bbbac5010ead62e76061d5adf826/26f56857bb40500a-e7/s500x750/2c135339c41661ee9f41c95ff7ca353baacfe2bd.gif" alt="No" height="250px" width="280px"> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soundw4v3s&label=Profile%20views&color=0e75b6&style=flat" alt="soundw4v3s" /> </p>
 
